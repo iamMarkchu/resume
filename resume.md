@@ -77,15 +77,14 @@
    
 # 业余时间
 
-1. 基于laravel开发了一个博客项目。
-2. 在阿里云买了一台主机，并通过域名备案，部署了自己的博客项目 [博客地址](http://blog2.mcgoldfish.com/)
+1. 基于laravel编写了一个博客项目，便于记录工作和学习中的一些知识和见解。
+2. 在阿里云买了一台主机，并通过域名备案，部署了自己的博客项目 [博客地址](http://blog2.mcgoldfish.com/)。
 3. 构建生产环境(阿里云 ubuntu 16.04)，并通过git和rsync来部署生产环境代码, 编写shell脚本，支持代码的 备份，回滚，以及自动打包，上线
-4. 构建测试环境, mac+virtualbox+ ubuntu +vagrant.
-5. 玩过树莓派
-5. 研究chatops，准备用于实际运维中。(因为参将了一个讲座，介绍chatops，觉得很有趣)
+4. 构建测试环境和开发环境, mac+virtualbox+ ubuntu +vagrant.
+5. 在家折腾树莓派.
 6. 最近在入门机器学习(人工智能)。（> 路漫漫其修远兮，吾将上下而求索 哈哈）
 7. 研究oauth 2.0
-8. 喜欢上 github, stackoverflow, 掘金, 博客园等网站
+8. 喜欢上github, stackoverflow, 掘金, 博客园等网站
 
 # 自我评价
 1. 学习能力和接受能力较强，善于学习一些新的技术。
