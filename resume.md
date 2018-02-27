@@ -13,17 +13,18 @@
 
 ## 专业技能
 
-- 有良好的学习能力，能够快速的学习并使用相关编程语言和开发工具。
+- 有良好的学习能力，能够快速的学习并使用相关编程语言和开发工具
 - Web开发: PHP/Html/Css/JavaScript/Node
 - 前端: Jquery/Bootstrap/Vue/ElementUI/Bulma
 - Web框架: Laravel/ThinkPHP/CodeIgniter
-- 熟练操作linux服务器，部署lamp,lnmp环境，部署生产环境代码，编写shell脚本，完成自动化任务。
+- 熟练操作linux服务器，部署lamp,lnmp环境，部署生产环境代码，编写shell脚本。
 - 缓存：Redis/Memecached
-- 数据库相关: Mysql/Pdo/Sqlite，
+- 数据库相关: Mysql/Pdo/Sqlite
 - 版本管理和自动化部署工具：Svn/Git/Composer
-- 良好的编码风格，有写注释和文档的习惯，良好的英文读写能力，无压力阅读英文文档。
+- 良好的编码风格，有写注释和文档的习惯，良好的英文读写能力，无压力阅读英文文档
 - 适应各种操作系统(Windows, MacOS, CentOS, Ubuntu)
 - 单元测试: phpUnit
+- 其他: Swoole/
 
 ## 工作经验
 
@@ -37,7 +38,7 @@
 ### 项目经验
 
 1. 在线促销网站 (https://www.fyvor.com, http://www.couponwitme.com, http://de.fyvor.com, https://www.frcodespromo.com/)
-   - 项目简介：通过人工或者技术手段，网罗全网大大小小2万多个商家的促销信息， 集中展示出来，并以SEO,SEM等针对搜索引擎的手段来引流，将用户带到商家网站上，完成订单，获取佣金
+   - 项目简介：通过人工或者技术手段，网罗全网大大小小2万多个商家的促销信息，集中展示出来，并以SEO,SEM等针对搜索引擎的手段来引流，将用户带到商家网站上，完成订单，获取佣金
    - 技术栈: php/smarty/memcached/jquery/mysql/Web前端/nginx/httpd
    - 个人职责:
      * 参与业务需求的讨论与设计，为运营，产品人员的需求提出技术可行性方案。
@@ -62,7 +63,7 @@
    - 技术栈: php/mysql/vuejs/node/element-ui/apache
    - 个人职责：
      * phpcron内核代码开发(包括解析cron时间字符串，多进程，判断进程是否异常，邮件报警)
-     * 开发web操作界面，cron管理界面 与 `crontab -l`命令对应， cron log模块开发，用于实时监控cron任务状态
+     * 开发web操作界面，cron管理界面 与 `crontab -l`命令对应，cron log模块开发，用于实时监控cron任务状态
 5. 促销网站运营系统开发
    - 项目简介：整合网站运营数据及第三方数据（google analytics数据，google gwt数据 facebook数据 twitter数据，通过各大厂的api获取），让运营人员能在一个界面看到所有的数据，提高了运营人员的工作效率，也方便他们分析问题，及时调整运营策略
    - 技术栈：php/thinkphp/mysql/vuejs/node/element-ui/apache/echarts
@@ -87,7 +88,6 @@
 5. 折腾树莓派
 6. 喜欢浏览 github, stackoverflow, 掘金, 博客园, laracasts等网站
 7. 研究科学上网, 在vultr购买了一台vps, 搭建ss。
-8.
 
 ## 自我评价
 1. 良好的学习能力。
