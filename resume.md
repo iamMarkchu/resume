@@ -1,34 +1,57 @@
 ## 个人信息
 
-- 褚魁/男/1992
-- 本科/武汉理工大学/计算机科学与技术专业
-- 工作年限：3年
+- 褚魁/男/1992.06
+- 武汉理工大学/计算机科学与技术专业/本科
+- 工作年限：4年
 - 电话: 18627032049
 - 邮箱: 18627032049@163.com
-- 技术博客：https://www.mcgoldfish.com/
+- 技术博客：https://mcgoldfish.com/
 - Github：https://github.com/iamMarkchu/
 - 期望职位：php开发工程师
-- 期望薪资：税前月薪18k~22k
-- 期望城市：上海 or 武汉
+- 期望薪资：税前月薪25k~30k
+- 期望城市：上海
 
 ## 专业技能
 
-- 有良好的学习能力，能够快速的学习并使用相关编程语言和开发工具
-- Web开发: PHP/Html/Css/JavaScript/Node
-- 前端: Jquery/Bootstrap/Vue/ElementUI/Bulma
-- Web框架: Laravel/ThinkPHP/CodeIgniter
-- 熟练操作linux服务器，部署lamp,lnmp环境，部署生产环境代码，编写shell脚本。
-- 缓存：Redis/Memecached
-- 数据库相关: Mysql/Pdo/Sqlite
-- 版本管理和自动化部署工具：Svn/Git/Composer
+- 熟练掌握php进行程序开发。
+- 熟练掌握laravel，thinphp等php框架。
+- 熟练操作linux服务器。
+- 熟练使用redis，memcached等nosql数据库。
+- 数据库相关: mysql/mongodb，熟练掌握数据库设计，优化工作
+- 熟练使用vuejs，elemet-ui，jquery，bootstrap等前端框架进行前端页面的构建
+- 版本管理软件：git/svn
+- 网络编程：掌握tcp,http,websocket等网络常用协议，掌握swoole 4，使用easyswoole开发过基于websocket的推送系统。
 - 良好的编码风格，有写注释和文档的习惯，良好的英文读写能力，无压力阅读英文文档
-- 适应各种操作系统(Windows, MacOS, CentOS, Ubuntu)
-- 单元测试: phpUnit
-- 其他: Swoole/微信公众号开发/微信聊天机器人
+- 良好的学习能力，能够快速的学习并使用相关编程语言和开发工具
+- 掌握Go语言编程。
 
 ## 工作经验
 
-## 美锴信息技术有限公司 (2015.7-至今)
+## 金大师网络科技有限公司 (2018.3-至今)
+* 行业: 金融，互联网
+* 职位: php开发工程师
+* 公司规模: 1000人
+* 公司简介: 主营业务 TD,期货，港美股，投资者教育
+
+### 项目经验
+
+1. CRM系统
+  - 项目简介: 金融公司内部CRM系统，主要有权限管理功能，用户管理功能，im聊天功能等
+  - 技术栈: php/thinkphp/memcached/redis/mysql/mongo/vuejs/httpd/nginx
+  - 个人职责:
+    * 负责维护im聊天功能，对接第三方IM系统(融云，环信)，对接app，保证聊天服务稳定性
+    * 负责开发发票系统，对接第三方发票系统(百旺)
+
+2. 企业微信系统
+  - 项目简介: 对接企业微信的系统
+  - 技术栈: php7/laravel/redis/mysql/nginx
+  - 个人职责:
+    * 负责通讯录管理模块
+    * 负责应用管理模块
+    * 负责消息收发模块
+    * 优化高并发接口
+
+## 美锴信息技术有限公司 (2015.7-2018.3)
 
 * 行业：互联网，在线促销导购，广告, 返利
 * 职位：php开发工程师
@@ -64,30 +87,15 @@
    - 个人职责：
      * phpcron内核代码开发(包括解析cron时间字符串，多进程，判断进程是否异常，邮件报警)
      * 开发web操作界面，cron管理界面 与 `crontab -l`命令对应，cron log模块开发，用于实时监控cron任务状态
-5. 促销网站运营系统开发
-   - 项目简介：整合网站运营数据及第三方数据（google analytics数据，google gwt数据 facebook数据 twitter数据，通过各大厂的api获取），让运营人员能在一个界面看到所有的数据，提高了运营人员的工作效率，也方便他们分析问题，及时调整运营策略
-   - 技术栈：php/thinkphp/mysql/vuejs/node/element-ui/apache/echarts
-   - 个人职责:
-     * 整合第三方api，获取运营数据
-     * web端实现
-6. 内部文档系统
-   - 项目简介：公司文档不是很全面，所以提出开发出了一个文档系统，用于记录项目的文档，给新进人员一些参考资料。
-   - 技术栈： php/thinkphp/mysql/bootstrap/jquery/apache/markdown
-
-7. extrabux chrome插件
-   - 项目简介: https://www.extrabux.com/ 衍生产品
-   - 个人职责:
-     * 2017年年底接手该项目，负责维护该项目
 
 ## 业余时间
 
 1. 基于laravel编写了一个博客项目，便于记录工作和学习中的一些知识和见解。
-2. 在阿里云买了一台ESC，部署了自己的博客项目 [博客地址](https://www.mcgoldfish.com/)。
+2. 在阿里云买了一台ESC，部署了自己的博客项目 [博客地址](https://mcgoldfish.com/)。
 3. 构建生产环境(阿里云 ubuntu 16.04)，并通过git和rsync来部署生产环境代码, 编写shell脚本，支持代码的 备份，回滚，以及自动打包，上线
-4. 构建测试环境和开发环境, mac/virtualbox/ubuntu/vagrant.
-5. 折腾树莓派
-6. 喜欢浏览 github/stackoverflow/掘金/博客园/Csdn/laracasts等网站，紧跟技术热点。
-7. 研究科学上网, 在vultr购买了一台vps, 搭建ss。
+4. 构建测试环境和开发环境, mac/virtualbox/ubuntu/vagrant/docker.
+5. 喜欢浏览 github/stackoverflow/掘金/csdn/laracasts/等网站，紧跟技术热点。
+6. 研究科学上网, 在vultr购买了一台vps, 搭建ss。
 
 ## 自我评价
 1. 良好的学习能力。
