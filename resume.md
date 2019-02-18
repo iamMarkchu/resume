@@ -2,14 +2,14 @@
 
 - 褚魁/男/1992.06
 - 武汉理工大学/计算机科学与技术专业/本科
-- 工作年限：4年
+- 工作年限：3年
 - 电话: 18627032049
 - 邮箱: 18627032049@163.com
 - 技术博客：https://mcgoldfish.com/
 - Github：https://github.com/iamMarkchu/
 - 期望职位：php开发工程师
-- 期望薪资：税前月薪25k~30k
-- 期望城市：上海
+- 期望薪资：税前月薪17k
+- 期望城市：武汉
 
 ## 专业技能
 
@@ -17,7 +17,7 @@
 - 熟练掌握laravel，thinphp等php框架。
 - 熟练操作linux服务器。
 - 熟练使用redis，memcached等nosql数据库。
-- 数据库相关: mysql/mongodb，熟练掌握数据库设计，优化工作
+- 数据库相关: mysql/mongodb，熟练掌握数据库设计，优化工作。
 - 熟练使用vuejs，elemet-ui，jquery，bootstrap等前端框架进行前端页面的构建
 - 版本管理软件：git/svn
 - 网络编程：掌握tcp,http,websocket等网络常用协议，掌握swoole 4，使用easyswoole开发过基于websocket的推送系统。
