@@ -8,7 +8,7 @@
 - 技术博客：https://mcgoldfish.com/
 - Github：https://github.com/iamMarkchu/
 - 期望职位：php开发工程师
-- 期望薪资：税前月薪25k~30k
+- 期望薪资：税前月薪23k~25k
 - 期望城市：上海
 
 ## 专业技能
